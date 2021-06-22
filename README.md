@@ -1,4 +1,4 @@
-# codingGAS
+# Lär dig erövra världen med hjälp av programmering och Google Apps Script
 Det här repositoryt innehåller en guide/kurs för att lära sig programmering genom att göra skript till Google-applikationer. För att använda guiden behöver du ha ett Google-konto, men du behöver inte ha programmerat eller kodat något förut.
 
 Mapparna i det här repositoryt är numrerade, vilket avspeglar den ordning som det föreslås att du jobbar med övningarna som finns i varje mapp. Den som är nyfiken kan förstås hoppa runt.
